@@ -1,0 +1,6 @@
+[submodule "collaborative-projects/maze-arcade"]
+	path = collaborative-projects/maze-arcade
+	url = https://github.com/matanashkenazi-rgb/MazeArcade.git
+[submodule "collaborative-projects/pac-man"]
+	path = collaborative-projects/pac-man
+	url = https://github.com/matanashkenazi-rgb/Pac-Man.git
